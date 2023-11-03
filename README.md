@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nomar Leon
 ==================================================================================================================================
 
-Data Analyst
+Data Professional
 ------------
 
 Highly motivated and organized Data Analyst, I possess a strong passion for learning and a team-oriented mindset. With expertise in Data Analysis and a bilingual background in Spanish, I offer a unique perspective in collaborative environments. Proficient in Excel, SQL, Python, and Data Visualizations, I am committed to proactively delivering high-quality results while maintaining punctuality. My ability to ask questions and engage with team members ensures success in any project.
